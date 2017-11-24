@@ -10,10 +10,7 @@ import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 
 public class ScorePage {
-	
-	@AndroidFindBy(id="com.thefloow.flo:id/layout_mileage")
-    private MobileElement MilesMeter;
-	
+		
 	
 	protected final AppiumDriver<MobileElement> driver;
 	
