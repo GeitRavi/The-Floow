@@ -33,12 +33,12 @@ Configuration:
 
 Steps to execute this code:
 ---------------------------
-*Create new folder
-*Open command prompt (cmd) and go to the folder created in step 1.
-*Execute command ::  git clone https://github.com/GeitRavi/The-Floow.git
-*Go to The-Floow/Automation folder in command prompt.
-*Execute command::  mvn dependency:resolve
-*Execute command::  mvn test
+* Create new folder
+* Open command prompt (cmd) and go to the folder created in step 1.
+* Execute command ::  git clone https://github.com/GeitRavi/The-Floow.git
+* Go to The-Floow/Automation folder in command prompt.
+* Execute command::  mvn dependency:resolve
+* Execute command::  mvn test
 
 Execution:
 ----------
