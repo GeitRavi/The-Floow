@@ -27,18 +27,18 @@ Pre-requisite:
  
 Configuration:
 -------------
-Enter the following variable value in Config.properties file.
-OS,DEVICE_NAME , PLATFORM_NAME,PLATFORM_VERSION ,AUTOMATION_NAME=Appium ,APP_NAME=8b3d8e298.apk ,UDID
-The-Floow/Automation/src/test/resources/config.properties 
+* Enter the following variable value in Config.properties file.
+* OS,DEVICE_NAME , PLATFORM_NAME,PLATFORM_VERSION ,AUTOMATION_NAME=Appium ,APP_NAME=8b3d8e298.apk ,UDID
+* The-Floow/Automation/src/test/resources/config.properties 
 
 Steps to execute this code:
 ---------------------------
-1.Create new folder
-2.Open command prompt (cmd) and go to the folder created in step 1.
-3.Execute command ::  git clone https://github.com/GeitRavi/The-Floow.git
-3.Go to The-Floow/Automation folder in command prompt.
-4.Execute command::  mvn dependency:resolve
-5.Execute command::  mvn test
+*Create new folder
+*Open command prompt (cmd) and go to the folder created in step 1.
+*Execute command ::  git clone https://github.com/GeitRavi/The-Floow.git
+*Go to The-Floow/Automation folder in command prompt.
+*Execute command::  mvn dependency:resolve
+*Execute command::  mvn test
 
 Execution:
 ----------
