@@ -25,6 +25,12 @@ Pre-requisite:
 * Install Eclipse IDE and set up maven project
 * Download Appium java client jar & selenium web driver & Cucumber & Junit jar file.
  
+Configuration:
+-------------
+Enter the following variable value in Config.properties file.
+OS,DEVICE_NAME , PLATFORM_NAME,PLATFORM_VERSION ,AUTOMATION_NAME=Appium ,APP_NAME=8b3d8e298.apk ,UDID
+The-Floow/Automation/src/test/resources/config.properties 
+
 Execution:
 ----------
 command to execute/run test cases.
